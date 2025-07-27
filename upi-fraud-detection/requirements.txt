@@ -1,0 +1,5 @@
+Flask==2.3.3              # Web framework for serving the app
+pandas==2.2.2             # For timestamp validation and data handling
+scikit-learn==1.4.2       # For Random Forest & Logistic Regression models
+xgboost==2.0.3            # For XGBoost model
+joblib==1.4.0             # For loading model .pkl files
